@@ -1,0 +1,22 @@
+# Other files and folders
+.settings/
+.git/
+__pycache__/
+developmentalmaterials/
+bowling_v1.py
+jsonAPI_v1.py
+plotter_v1.py
+reportbuilder_v1.py
+SQLiteAPI_v1.py
+loadOldData.py
+plotter_v2_obsoleted.py
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
